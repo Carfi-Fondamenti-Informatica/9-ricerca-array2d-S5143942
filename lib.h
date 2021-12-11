@@ -1,6 +1,7 @@
-#ifndef ES_9_ARRAY2D
-#define ES_9_ARRAY2D
-#endif // ES_9_ARRAY2D
-bool res (char[][20], char[], int &);
+#ifndef INC_9_RICERCA_ARRAY2D_S5143942
+#define INC_9_RICERCA_ARRAY2D_S5143942
+//
+#endif // INC_9_RICERCA_ARRAY2D_S5143942_LIB_H
+bool res (char[][20], char[], int&);
 
 
