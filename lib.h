@@ -1,6 +1,6 @@
-#ifndef UNTITLED17_LIB_H
-#define UNTITLED17_LIB_H
+#ifndef ES_9_ARRAY2D
+#define ES_9_ARRAY2D
+#endif // ES_9_ARRAY2D
+bool res (char[][20], char[], int &);
 
-bool ricerca(char lista [10][20], char nome[1][20], int &pos);
 
-#endif //untitled17_LIB_H
